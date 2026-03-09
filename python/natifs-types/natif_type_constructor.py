@@ -1,0 +1,4 @@
+str()
+int()
+bool()
+float()
